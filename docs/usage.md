@@ -1,6 +1,6 @@
 # Ollama Inference Framework  
 ## Product Link  
-[Ollama Inference Framework](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936)  
+[Ollama Inference Framework](https://marketplace.huaweicloud.com/intl/hidden/contents/e81fb144-b2c8-4f64-802a-8183548f0752)  
 
 ## Product Description  
 [Ollama](https://ollama.com/) is a cross-platform inference framework client (MacOS, Windows, Linux) designed for seamless deployment of large language models (LLMs) such as Llama 2, Mistral, Llava, and more. With one-click setup, Ollama enables local execution of LLMs, keeping all interaction data on your own machine to enhance data privacy and security.  
