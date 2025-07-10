@@ -29,7 +29,7 @@ This project provides the open-source image product [**Ollama Inference Framewor
 
 | Image Specification | Features | Remarks |
 |---------------------|----------|---------|
-| [Ollama-v0.9.2-kunpeng](https://github.com/HuaweiCloudDeveloper/ollama-image/tree/ollama-0.9.2-kunpeng/README.md) | Deployed on Kunpeng Cloud Server + Ubuntu 24.04 64bit / Huawei Cloud EulerOS 2.0 64bit | |
+| [Ollama-v0.9.2-kunpeng](https://github.com/HuaweiCloudDeveloper/ollama-image/tree/ollama-v0.9.2-kunpeng/README.md) | Deployed on Kunpeng Cloud Server + Ubuntu 24.04 64bit / Huawei Cloud EulerOS 2.0 64bit | |
 
 ## Getting Help
 - For more issues, contact us via [issue](https://github.com/HuaweiCloudDeveloper/ollama-image/issues) or Huawei Cloud Marketplace product support
