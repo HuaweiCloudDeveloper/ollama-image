@@ -15,7 +15,7 @@
 ## 项目介绍
 [Ollama](https://ollama.com/)是一款跨平台推理框架客户端（MacOS、Windows、Linux），专为无缝部署大型语言模型（LLM）（如 Llama 2、Mistral、Llava 等）而设计。通过一键式设置，Ollama 可以在本地运行 LLM，将所有交互数据保存在自己的机器上，从而提高数据的私密性和安全性。
 
-本项目提供的开源镜像商品 [**Ollama推理框架**](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936)，已预先安装Ollama推理框架及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Ollama推理框架**](https://marketplace.huaweicloud.com/hidden/contents/54eeb4b5-2ed7-4023-b6bf-ef2b98b83341#productid=OFFI1148937502267293696)，已预先安装Ollama推理框架及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2vCPUs 或更高
@@ -29,8 +29,8 @@
 
 | 镜像规格                                                                                                                                 | 特性说明                                           | 备注 |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [Ollama0.9.2-Ubuntu-鲲鹏-v1.0](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936) | 基于 鲲鹏云服务器 + Ubuntu 24.04 64bit 安装部署 |  |
-| [LocalAI3.0.0-HCE-鲲鹏-v1.0](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707732705042432) | 基于 鲲鹏云服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [Ollama-v0.9.2-鲲鹏-Ubuntu24.04](https://marketplace.huaweicloud.com/hidden/contents/54eeb4b5-2ed7-4023-b6bf-ef2b98b83341#productid=OFFI1148937567790710784) | 基于 鲲鹏云服务器 + Ubuntu 24.04 64bit 安装部署 |  |
+| [Ollama-v0.9.2-鲲鹏-HCE2.0](https://marketplace.huaweicloud.com/hidden/contents/54eeb4b5-2ed7-4023-b6bf-ef2b98b83341#productid=OFFI1148937502267293696) | 基于 鲲鹏云服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/ollama-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
