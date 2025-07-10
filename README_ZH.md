@@ -29,8 +29,7 @@
 
 | 镜像规格                                                                                                                                 | 特性说明                                           | 备注 |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [Ollama-v0.9.2-鲲鹏-Ubuntu24.04](https://github.com/HuaweiCloudDeveloper/ollama-image/tree/ollama-0.9.2-kunpeng/README_ZH.md) | 基于 鲲鹏云服务器 + Ubuntu 24.04 64bit 安装部署 |  |
-| [Ollama-v0.9.2-鲲鹏-HCE2.0](https://github.com/HuaweiCloudDeveloper/ollama-image/tree/ollama-0.9.2-kunpeng/README_ZH.md) | 基于 鲲鹏云服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [Ollama-v0.9.2-鲲鹏](https://github.com/HuaweiCloudDeveloper/ollama-image/tree/ollama-0.9.2-kunpeng/README_ZH.md) | 基于 鲲鹏云服务器 + Ubuntu 24.04 64bit / Huawei Cloud EulerOS 2.0 64bit安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/ollama-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
