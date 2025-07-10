@@ -1,6 +1,6 @@
 # Ollama推理框架
 ## 商品连接
-[Ollama推理框架](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936)
+[Ollama推理框架](https://marketplace.huaweicloud.com/hidden/contents/54eeb4b5-2ed7-4023-b6bf-ef2b98b83341#productid=OFFI1148937502267293696)
 
 ## 商品说明
 [Ollama](https://ollama.com/)是一款跨平台推理框架客户端（MacOS、Windows、Linux），专为无缝部署大型语言模型（LLM）（如 Llama 2、Mistral、Llava 等）而设计。通过一键式设置，Ollama 可以在本地运行 LLM，将所有交互数据保存在自己的机器上，从而提高数据的私密性和安全性。
