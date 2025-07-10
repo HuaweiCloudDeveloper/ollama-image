@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Ollama Inference Framework</h1>
   <p align="center">
-    <a href="README.md"><strong>English</strong></a> | <strong>简体中文</strong>
+    <strong>English</strong></a> | <a href="README_ZH.md"><strong>简体中文</strong>
   </p>
 
 ## Table of Contents
